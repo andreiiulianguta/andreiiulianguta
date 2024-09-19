@@ -1,16 +1,18 @@
-## Hola 👋
+## Hola👋
 
 <!--
 **andreiiulianguta/andreiiulianguta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Sobre mí
+
+¡Hola! Soy Andrei , un apasionado del desarrollo de software. Me gusta aprender cosas nuevas y compartir lo que sé.
+
+- 🔭 Actualmente estoy trabajando en las oficinas de Google.
+- 🌱 Estoy aprendiendo sobre el correcto desarollo sobre webs.
+- 👯 Me encantaría colaborar en proyectos de IA.
+- 📫 Puedes contactarme en andreiiulianguta@iesebre.com
+- 😄 Pronombres: Andrei Iulian Guta.
+- ⚡ Dato curioso: Me encanta todo lo que tenga que ver con el mundo de la tecnologia y tambien me apasiona el futbol.
+
+¡Gracias por visitar mi perfil! 😊
